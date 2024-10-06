@@ -1,7 +1,4 @@
-CargaTransitorio.log
-CargaTransitorio.raw
-CargaTransitorio.op.raw
-DescargaTransitorio.log
-DescargaTransitorio.raw
-DescargaTransitorio.op.raw
-CargaTransitorio.net
+TransitorioFinal.log
+TransitorioFinal.raw
+TransitorioFinal.op.raw
+TransitorioFinal.net
